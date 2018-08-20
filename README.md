@@ -1,5 +1,9 @@
 # CLLExceptionHandler
 
+#### 集成方法
+```
+pod 'CLLExceptionHandler', :git => "https://github.com/leocll/CLLExceptionHandler.git", :branch => 'master'
+```
 
 #### 主类```CLLExceptionHandler```，接口
 ```

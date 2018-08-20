@@ -1,5 +1,7 @@
 # CLLExceptionHandler
 
+捕获异常并根据业务逻辑自定义处理
+
 #### 集成方法
 ```
 pod 'CLLExceptionHandler', :git => "https://github.com/leocll/CLLExceptionHandler.git", :branch => 'master'
